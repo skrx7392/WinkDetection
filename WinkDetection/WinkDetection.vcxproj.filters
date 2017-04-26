@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ShushImages">
+      <UniqueIdentifier>{0e703efb-2499-4a64-b5c0-3ef75efb350c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SilenceDetect.cpp">
@@ -23,5 +26,43 @@
     <ClInclude Include="dirent.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\images.jpeg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\images-2.jpeg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\mr_bean_edit_3228655b.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\murdoch.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\noisy.jpg-pwrt3.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\Shush.jpeg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\shush.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\shush-2.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\shush-3.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\silenceofthelambs.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\tiger-shush.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\tumblr_m1vymzfy6k1qah5ozo1_500.jpg">
+      <Filter>ShushImages</Filter>
+    </Image>
   </ItemGroup>
 </Project>

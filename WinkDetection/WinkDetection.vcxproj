@@ -155,6 +155,20 @@
   <ItemGroup>
     <ClInclude Include="dirent.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\images-2.jpeg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\images.jpeg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\mr_bean_edit_3228655b.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\murdoch.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\noisy.jpg-pwrt3.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\shush-2.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\shush-3.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\Shush.jpeg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\shush.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\silenceofthelambs.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\tiger-shush.jpg" />
+    <Image Include="..\..\..\..\..\Desktop\ShushImages\tumblr_m1vymzfy6k1qah5ozo1_500.jpg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
